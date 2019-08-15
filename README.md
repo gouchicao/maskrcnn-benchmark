@@ -1,2 +1,1 @@
-# maskrcnn-benchmark
-maskrcnn-benchmark docker images
+# [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark)
